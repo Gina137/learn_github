@@ -1,2 +1,2 @@
 # learn_github
-**apply github learning**
+__apply github learning__
